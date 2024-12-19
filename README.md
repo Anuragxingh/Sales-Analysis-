@@ -1,0 +1,2 @@
+Dashboard for Sales Analysis
+A retail company's interactive Power BI dashboard displaying sales data. Key parameters such as total sales (₹3.5M), total orders (1,000), and average customer spend (₹3,520) are included, along with trend visualizations by month, category, city, and occasion. To facilitate data-driven decision-making and operational enhancements, the dashboard makes use of dynamic filters and DAX features.
